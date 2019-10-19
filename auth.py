@@ -56,7 +56,7 @@ def login(uname, passw):
         'password': passw,
         }
 
-    url_2 = 'http://192.168.201.6:1000/'
+    url_2 = 'http://detectportal.firefox.com'
 
     res = post(url_2, headers=headers, data=payload)
 

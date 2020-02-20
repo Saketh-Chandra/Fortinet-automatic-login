@@ -14,13 +14,14 @@ Fortinet automatic login program written in python, used to bypass Fortinet fire
 
 Working
 -------
-Simply run the **Auth.exe** file when you want to connect.
+Simply run the **Auto login to Fortinet.exe** file when you want to connect.
 It will ask for credential on the first run, after that it will automatically login.
 
 Installation
 ------------
 
-**Download** `link <https://raw.githubusercontent.com/guptarohit/Fortinet-automatic-login/master/auth.exe>`_
+
+* **Download for windows** `link <https://github.com/Saketh-Chandra/Fortinet-automatic-login/blob/master/Windows%20EXE/Auto%20login%20to%20Fortinet.exe?raw=true>`_
 
 
 License
